@@ -2,6 +2,6 @@
 A Guide for GoChain
 
 # Resources
-MyEtherWallet
-VS Code 
-MetaMask Extension
+1. MyEtherWallet
+2. VS Code 
+3. MetaMask Extension
