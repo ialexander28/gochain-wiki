@@ -1,2 +1,2 @@
-# GoChain Wiki
+# GoChain wiki
 A Guide for GoChain
