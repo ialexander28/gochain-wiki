@@ -4,10 +4,9 @@
 ## Resources
 1. [MyEtherWallet](https://www.myetherwallet.com/)
 
-<p>
-</p>
 
-2. [VS Code](https://code.visualstudio.com/)
+
+  2. [VS Code](https://code.visualstudio.com/)
 
 
 
