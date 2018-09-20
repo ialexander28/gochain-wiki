@@ -2,7 +2,8 @@
 ## Deploying a Smart Contract
 
 ## Resources
-1. [MyEtherWallet](https://www.myetherwallet.com/)</p> 
+1. [MyEtherWallet](https://www.myetherwallet.com/)
+
 <p>
 </p>
 
