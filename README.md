@@ -2,11 +2,11 @@
 ## Deploying a Smart Contract
 
 ## Resources
-<p>1. [MyEtherWallet](https://www.myetherwallet.com/)</p> 
+1. [MyEtherWallet](https://www.myetherwallet.com/)</p> 
+<p>
+</p>
 
-
-
-<p>2. [VS Code](https://code.visualstudio.com/)</p>
+2. [VS Code](https://code.visualstudio.com/)
 
 
 
