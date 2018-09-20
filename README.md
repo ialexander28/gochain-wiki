@@ -3,7 +3,13 @@
 
 ## Resources
 1. [MyEtherWallet](https://www.myetherwallet.com/)
+
+
+
 2. [VS Code](https://code.visualstudio.com/)
+
+
+
 3. [VS Code Solidity Extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 
 
